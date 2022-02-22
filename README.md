@@ -1,2 +1,2 @@
 # Practica_febrero
-Codidos de práctica
+Codigos de práctica
